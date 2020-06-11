@@ -1,0 +1,35 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "grid-size" : "small"
+  },
+  "stickers" : [
+    {
+      "filename" : "abc.sticker"
+    },
+    {
+      "filename" : "akry.sticker"
+    },
+    {
+      "filename" : "aks3.sticker"
+    },
+    {
+      "filename" : "bbr.sticker"
+    },
+    {
+      "filename" : "bil.sticker"
+    },
+    {
+      "filename" : "brcr.sticker"
+    },
+    {
+      "filename" : "crb.sticker"
+    },
+    {
+      "filename" : "dih.sticker"
+    }
+  ]
+}
